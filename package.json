@@ -1,0 +1,23 @@
+{
+  "name": "desafio04coder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "run": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxi1330/Desafio04Coder.git"
+  },
+  "author": "Maximiliano Gnovatto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxi1330/Desafio04Coder/issues"
+  },
+  "homepage": "https://github.com/maxi1330/Desafio04Coder#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
